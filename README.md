@@ -1,1 +1,2 @@
-# kafka-example
+# A basic demonstration of Apache Kafka implementation
+This project comprises a producer and a consumer component, seamlessly leveraging Kafka's messaging capabilities. The producer module utilizes a REST API to send requests, while the consumer module efficiently prints received messages from Kafka to the console. This project serves as a reliable and concise introduction to Apache Kafka, showcasing its practical use in building robust messaging systems.
